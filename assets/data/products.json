@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "socks": [
+        {"id": 456, "color": "blue", "size": 43, "url": "assets/images/socks_blue.jpg", "pieces": 100 },
+        {"id": 457,"color": "green", "size": 40, "url": "assets/images/socks_green.jpg", "pieces": 50 }
+      ]
+    }
+  ]
+}
